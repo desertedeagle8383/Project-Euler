@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * 
  * What is the 10,001st prime number?
  */
-public class P7 {
+public class P007 {
 	public static void main(String[] args) {
 		LinkedList<Integer> primes = new LinkedList<Integer>();
 		int n = 2;

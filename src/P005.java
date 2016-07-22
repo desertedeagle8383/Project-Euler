@@ -8,7 +8,7 @@
 
 import java.util.TreeMap;
 
-public class P5 {
+public class P005 {
 	public static void main(String[] args) {
 		TreeMap<Integer, Integer> map = new TreeMap<Integer, Integer>();
 		int[] primes = {2, 3, 5, 7, 11, 13, 17, 19};

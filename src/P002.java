@@ -9,7 +9,7 @@
 
 import java.util.LinkedList;
 
-public class P2 {
+public class P002 {
 	public static void main(String[] args) {
 		LinkedList<Integer> evens = new LinkedList<Integer>();
 		int a = 1, b = 2, total = 0;

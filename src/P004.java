@@ -5,7 +5,7 @@
  * Find the largest palindrome made from the product of two 3-digit numbers.
  */
 
-public class P4 {
+public class P004 {
 	public static void main(String[] args) {
 		long st= System.currentTimeMillis();
 		int maxTriple = (int) 999*999 / 1000 + 1;
